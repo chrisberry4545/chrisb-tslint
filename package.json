@@ -1,0 +1,16 @@
+{
+  "name": "@chrisb-dev/chris-tslint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisberry4545/chrisb-tslint.git"
+  },
+  "author": "Chris Berry <chrisberry4545@googlemail.com> (http://chrisbdev.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisberry4545/chrisb-tslint/issues"
+  },
+  "homepage": "https://github.com/chrisberry4545/chrisb-tslint#readme"
+}
